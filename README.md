@@ -1,3 +1,3 @@
 # AoC 2022
 
-continuous testing: cargo watch -x -test
+continuous testing: `cargo watch -x test`.
